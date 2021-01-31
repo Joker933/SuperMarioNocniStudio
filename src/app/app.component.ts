@@ -21,6 +21,14 @@ export class AppComponent {
     {ikonka: 'Rapublika', otoceno: false},
     {ikonka: 'LSD Badboy Berlin', otoceno: false},
     {ikonka: 'Kamehamea', otoceno: false},
+    {ikonka: 'eminemJeShit', otoceno: false},
+    {ikonka: 'TrappyPotter', otoceno: false},
+    {ikonka: 'FreeMarika', otoceno: false},
+    {ikonka: 'VrtSeK**vo', otoceno: false},
+    {ikonka: 'Cyril Baroko', otoceno: false},
+    {ikonka: 'Rapublika', otoceno: false},
+    {ikonka: 'LSD Badboy Berlin', otoceno: false},
+    {ikonka: 'Kamehamea', otoceno: false},
   ];
 
   savedCard: Karta | null = null;
